@@ -1,0 +1,8 @@
+[submodule "aem-cif-guides-venia"]
+	path = aem-cif-guides-venia
+	url = https://github.com/holmsj/aem-cif-guides-venia-submodule/
+	branch = main
+[submodule "core-cif-components"]
+	path = core-cif-components
+	url = https://github.com/holmsj/aem-core-cif-components-submodule/
+	branch = master
