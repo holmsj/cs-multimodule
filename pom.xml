@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>aem-cif-guides-venia</module>
         <module>core-cif-components</module>
+        <module>aem-cif-guides-venia</module>
     </modules>
 </project>
