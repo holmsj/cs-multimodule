@@ -6,3 +6,7 @@
 	path = core-cif-components
 	url = https://github.com/holmsj/aem-core-cif-components-submodule/
 	branch = master
+[submodule "aem-guides-wknd"]
+	path = aem-guides-wknd
+	url = https://github.com/holmsj/aem-guides-wknd
+	branch = main
